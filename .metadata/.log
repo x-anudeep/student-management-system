@@ -1,0 +1,13 @@
+!SESSION 2025-09-14 18:13:50.470 -----------------------------------------------
+eclipse.buildId=4.36.0.20250605-1300
+java.version=24.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/anudeep/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.java.product -keyring /Users/anudeep/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2025-09-14 18:13:51.252
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2025-09-14 18:14:09.998
+!MESSAGE Logback config file: /Users/anudeep/dev/JAVA-Fullstack-Project4_Final-Public-main/project folder/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.100.20250418-1315.xml
