@@ -1,4 +1,4 @@
-# Student Management System
+# AI Driven Student Management System
 
 This is a full-stack Student Management System built with **Angular** (frontend) and **Spring Boot** (backend).  
 It allows admins and users to manage students, courses, and roles efficiently.
